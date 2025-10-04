@@ -1,4 +1,4 @@
-# 🎉 Hack-october-festival 2024
+<img width="1201" height="631" alt="image" src="https://github.com/user-attachments/assets/f85b4cd2-4959-4a72-a8d8-b5e1310094be" /># 🎉 Hack-october-festival 2024
 
 ## 🌐 Join the Fun!
 
