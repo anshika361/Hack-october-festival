@@ -1,8 +1,8 @@
 contributors = [
   {
-    id: "your id number",
-    fullname: "Your Name",
-    username: "Your Github Link",
+    id: "2",
+    fullname: "Anshika Agarwal",
+    username: "https://github.com/anshika361",
   },
   {
     id: 1,
